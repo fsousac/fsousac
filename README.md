@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/fsousac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div class="ling" style="display: inline_block"><br>
   <p style= "text-indent: 5em;"><b>🔹 Linguagens que estudo atualmente: </b></p>
