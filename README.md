@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/fsousac">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=tokyonight"/>
+  <img width="45%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=tokyonight"/>
 </div>
 <div class="ling" style="display: inline_block"><br>
   <p style= "text-indent: 5em;"><b>🔹 Linguagens que estudo atualmente: </b></p>
