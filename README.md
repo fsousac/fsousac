@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/fsousac">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight"/> &nbsp
   <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=tokyonight"/>
 </div>
 <div class="ling" style="display: inline_block"><br>
