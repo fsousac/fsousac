@@ -16,7 +16,7 @@
 </div>
   
   ##
- - Cursando o 3º período de Engenharia de Software pela Universidade de Brasília (UnB)<br>
+ - Cursando o 4º período de Engenharia de Software pela Universidade de Brasília (UnB)<br>
  - Sempre tentando aprender cada vez mais!
 
 #### 🔹 Contato:
