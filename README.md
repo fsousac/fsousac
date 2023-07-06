@@ -16,7 +16,7 @@
 </div>
   
   ##
- - Student of the 4th period of Software Engeneering for the University of Brasília (UnB)<br>
+ - Student of the 5th period of Software Engeneering for the University of Brasília (UnB)<br>
  - Always trying to learn more!
 
 #### 🔹 Contact:
