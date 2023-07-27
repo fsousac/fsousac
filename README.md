@@ -13,7 +13,6 @@
     />
     <img  width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true" />
   </picture>
-    &nbsp
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=tokyonight"
