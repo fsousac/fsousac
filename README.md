@@ -11,7 +11,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=transparent"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img  width="45%" height="190em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true" />
+    <img  width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true" />
   </picture>
     &nbsp
   <picture>
