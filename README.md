@@ -22,7 +22,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=transparent"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img top="-10%" width="38%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact" />
+    <img margin-top="-10%" width="38%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact" />
   </picture>
 </div>
 <div class="ling" style="display: inline_block"><br>
