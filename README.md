@@ -2,8 +2,29 @@
 
 <div align="center">
   <a href="https://github.com/fsousac">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight"/> &nbsp
-  <img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=tokyonight"/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=transparent"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img  width="45%" height="182em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true" />
+  </picture>
+    &nbsp
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=transparent"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img  width="38%" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact" />
+  </picture>
 </div>
 <div class="ling" style="display: inline_block"><br>
   <p style= "text-indent: 5em;"><b>🔹 Languages I currently study: </b></p>
