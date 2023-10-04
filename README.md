@@ -45,7 +45,7 @@
  - Student of the 5th period of Software Engeneering for the University of Brasília (UnB)<br>
  - Always trying to learn more!
 
-#### 🔹 Contact:
+ <p style= "text-indent: 5em;"><b>🔹 Contact: </b></p>
 <div> 
   <a href="https://www.instagram.com/fsousac_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipescoelho517@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
