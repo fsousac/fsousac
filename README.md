@@ -4,11 +4,11 @@
   <a href="https://github.com/fsousac">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight"
+      srcset="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight&rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=transparent"
+      srcset="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=transparent&rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img margin-top="0" width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true" />
