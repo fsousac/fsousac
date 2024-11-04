@@ -51,7 +51,7 @@
 </div>
   
   ##
- - Student of the 6th period of Software Engeneering for the University of Brasília (UnB)<br>
+ - Student of the 7th period of Software Engeneering for the University of Brasília (UnB)<br>
  - Always trying to learn more!
 
  <p style= "text-indent: 5em;"><b>🔹 Contact: </b></p>
