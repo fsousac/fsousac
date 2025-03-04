@@ -39,6 +39,7 @@
   <img align="center" alt="Felipe-Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br><br>
   <p style= "text-indent: 5em;"><b>🔹 Technologies I currently use: </b></p>
   <img align="center" alt="Felipe-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Felipe-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Felipe-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Felipe-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Felipe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
@@ -51,7 +52,7 @@
 </div>
   
   ##
- - Student of the 7th period of Software Engeneering for the University of Brasília (UnB)<br>
+ - Student of the 8th period of Software Engeneering for the University of Brasília (UnB)<br>
  - Always trying to learn more!
 
  <p style= "text-indent: 5em;"><b>🔹 Contact: </b></p>
