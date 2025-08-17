@@ -28,7 +28,7 @@
 <div class="ling" style="display: inline_block"><br>
   <p style= "text-indent: 5em;"><b>🔹 Technologies I've already used: </b></p>
   <img align="center" alt="Felipe-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Felipe-C" height="40" width="50" src="https://raw.githubusercontent.com/heltonricardo/programming-language-icons/refs/heads/master/svg-files/c.svg">
   <img align="center" alt="Felipe-C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Felipe-Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Felipe-Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
@@ -52,7 +52,7 @@
 </div>
   
   ##
- - Student of the 8th period of Software Engeneering for the University of Brasília (UnB)<br>
+ - Student of the 9th period of Software Engeneering for the University of Brasília (UnB)<br>
  - Always trying to learn more!
 
  <p style= "text-indent: 5em;"><b>🔹 Contact: </b></p>
