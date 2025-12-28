@@ -1,25 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b61f7&size=28&center=true&vCenter=true&width=1000&lines=Welcome+to+my+repository!;I'm+Felipe,+Software+Engeneering+Student+🖖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b61f7&size=28&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I'm+Felipe,+Software+Engeneering+Student+🖖)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/fsousac">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight&rank_icon=github"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=fsousac&show_icons=true&theme=tokyonight&rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true&theme=transparent&rank_icon=github"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=fsousac&show_icons=true&theme=transparent&rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img margin-top="0" width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=fsousac&show_icons=true" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=tokyonight"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&exclude_repo=servidor-terrax,Terra-X"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=transparent"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fsousac&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=servidor-terrax,Terra-X"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img margin-top="0" width="38%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact" />
@@ -52,7 +52,7 @@
 </div>
   
   ##
- - Student of the 9th period of Software Engeneering for the University of Brasília (UnB)<br>
+ - Software Engeneering Student from the University of Brasília (UnB)<br>
  - Always trying to learn more!
 
  <p style= "text-indent: 5em;"><b>🔹 Contact: </b></p>
