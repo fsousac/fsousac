@@ -25,8 +25,9 @@
     <img margin-top="0" width="38%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsousac&layout=compact" />
   </picture>
 </div>
-<div class="ling" style="display: inline_block"><br>
+<div class="ling"><br>
   <p style= "text-indent: 5em;"><b>🔹 Technologies I've already used: </b></p>
+  <div style="display: inline-block;">
   <img align="center" alt="Felipe-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-C" height="40" width="50" src="https://raw.githubusercontent.com/heltonricardo/programming-language-icons/refs/heads/master/svg-files/c.svg">
   <img align="center" alt="Felipe-C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
@@ -39,8 +40,11 @@
   <img align="center" alt="Felipe-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="Felipe-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Felipe-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Felipe-Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br><br>
+  <img align="center" alt="Felipe-Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </div>
+  <br><br>
   <p style= "text-indent: 5em;"><b>🔹 Technologies I currently use: </b></p>
+  <div style="display: inline-block;">
   <img align="center" alt="Felipe-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Felipe-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Felipe-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -56,6 +60,7 @@
   <img align="center" alt="Felipe-K8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Felipe-K8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="Felipe-K8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-plain.svg">
+  </div>
 </div>
   
   ##
