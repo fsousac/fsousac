@@ -53,13 +53,13 @@
   <img align="center" alt="Felipe-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Felipe-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Felipe-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Felipe-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Felipe-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Felipe-Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="Felipe-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Felipe-Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Felipe-Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
   <img align="center" alt="Felipe-Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Felipe-K8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Felipe-K8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Felipe-K8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-plain.svg">
+  <img align="center" alt="Felipe-Terraform" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Felipe-Grafana" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-plain.svg">
   </div>
 </div>
   
